@@ -1,0 +1,285 @@
+# Características estándar para todas las villas en Casa Linda 082020.
+## I Especificaciones de la instalación eléctrica para todas las villas en Casa Linda
+Especificaciones de la instalación eléctrica para todas las villas en Casa Linda
+### 1. Requisitos para la instalación de ventiladores de techo y especificaciones eléctricas.
+1. Requisitos para la instalación de ventiladores de techo y especificaciones eléctricas.
+1.1 Requisitos para la instalación de ventiladores de techo y especificaciones eléctricas. Abanico de techo 52", salvo que se especifique, con luz en todos los dormitorios, la sala, el comedor, la  terraza y la palapa.(la cantidad de ventiladores de techo son determinados por el plano de la villa) 
+1.2 TODAS LAS SALIDAS DE LUZ ELÉCTRICA EN LOS TECHOS DEBE SER METALICO (no de plástico)  Y DEBEN ESTAR ANCLADOS EN EL CEMENTO DEL TECHO. 
+1.3 Los ventiladores de techo para el exterior deben ser a prueba de óxido. Disponible en Bellon.   Las hojas son de plástico. Disponible en color blanco o madera. 
+1.4 Los ventiladores de techo deben instalarse entre 240 y 250 centímetros sobre el piso. 
+
+### 2. Especificaciones de la instalación eléctrica para la cocina.
+2. Especificaciones de la instalación eléctrica para la cocina.
+2.1 La apertura para el extractor de grasa o combinación de microondas y extractor de grasa en la cocina debe ser ventilado hacia afuera y la dimensión del ducto para el extractor por encima de la estufa será de  10"x4". 
+2.2 Cada toma de corriente por encima de la meseta de la cocina debe estar en un circuito separado. 
+2.3 Cada uno de los aparatos, la nevera, estufa y microondas también debe estar en un circuito separado (independiente el uno del otro)  
+2.4 Habrá cableado para luces debajo de los gabinetes de cocina operados por un interruptor separado. El  número de salidas para estas luces se determinará en el plan de la cocina. El interruptor se ubicará en la  pared del protector contra salpicaduras. 
+2.5  Debe haber una toma de corriente eléctrica ubicada debajo del fregadero de la cocina, a 70 cm del piso,  incluso si el plano no muestra un lavaplatos. 
+2.6 Por encima de la meseta de la península en la Villa Ultima habrá 3 salidas para la iluminación. En todos los demás modelos de villas sólo habrá una luz encima de la mesta de la isla o península. 
+
+### 3. Requisitos de ventilación y iluminación para los baños
+3.1 Ventilación para los baños sin ventanas, con motor de extracción de capacidad suficiente. 
+3.2 Los espejos sin marcos colocados encima los lavabos tienen que tener luces arriba. (3 para baño principal, 2 para baño comparte, y 1 para baño pequeño) 
+
+### 4. Especificaciones eléctricas para la bomba de la piscina
+4.1 La bomba de la piscina debe estar en un circuito 240v y la bomba de agua debe estar en un 240v, y  ambos tener un interruptor de 240V (120V no dos conectados juntos).  
+4.2 Cada panel de interruptores tendrá un interruptor principal de 'cerrar'. 
+4.3 Se instalará un temporizador digital de 24 horas para la bomba de la piscina. (crédito pagado con la fase 5) 
+4.4 Todas las casas deben tener un interruptor para encender y apagar la bomba de la piscina. El breaker no  es un interruptor. 
+4.5 Las luces de la piscina deben operar con un transformador de 12V con luces de 60 a 70 vatios LED. Interruptor  para estas luces debe estar ubicado en la pared principal terraza o en una pared en la palapa (de acuerdo al  plano). Desde el 1 de enero de 2015, ya no va a estar piscinas diseñadas con luces en la zona poco  profunda. Las superficies de la piscina no deben terminarse con epoxi ni ningún otro tipo de pintura. 
+4.6 Para las casas que tienen un 'sobre la tierra' bañera de hidromasaje. Debe haber un interruptor de 30  amperios dedicado con un cable de calibre 10 que lleva a una toma de corriente de 110v de grado exterior.   El amperaje de estos jacuzzi es alto debido a la bomba y el calentador. 
+4.7 El panel del interruptor principal también debe estar ubicado en el cuarto de bombas, o de acuerdo con los  planes.
+
+### 5. Regulaciones de iluminación y electricidad para espacios de bar y terrazas
+5.1 La pared posterior del bar en la Villa Ultima tiene soporte de madera por encima de piedra. las piedras deben tener 4 luces (12volts). Funcionando con 1 interruptor dimmer-regulador de intensidad de luz. 
+5.2 Interruptor regulador para 8 luces (4 en cada lado), encima del bar a liare libre(funcionan con 1 switch dimmer-regulador de intensidad de luz), 13 luces en la escalones de la terraza para la villa Ultima, 10 en la terraza principal, 3 en los escalones de la terraza del bar (funcionan con 1 interruptor dimmer-regulador de intensidad de luz, 12v) Una para cada área. 
+5.3 Deben haber 9 luces en los escalones de la terraza principal de la Villa Tranquila que funcione con 1 interruptor dimmer-regulador de intensidad de luz. 
+5.4 Habrá 3 luces empotrado en el techo o viga encima el bar exteriores a menos que se especifique lo  contrario en el contrato. 
+
+### 6. Normativas de instalaciones eléctricas. 
+6.1 Todas las casas nuevas deberán incluir tuberías por separado para los siguientes usos; Teléfono, TV, Cable.  Estas líneas deben ir al registro principal en la calle. 
+6.2 Instalar un tubo eléctrico separado para el Internet en el panel central para los cableados. Este tubo de  media debe colocarse por dentro de la pared y continuara través del techo, debe sobre salir 60 cm por encima del techo. 
+6.3 El constructor debe identificar cada interruptor en el panel eléctrico principal. 
+6.4 Las casas deben tener 2 varillas a tierra para la casa, y 2 para la piscina. Una varilla a tierra al lado del registro  se encuentra en la calle para ser conectado a la línea neutra pasando dentro de la villa. Cualquier villa que ya  se ha construido debe tener una barra a tierra instalada al lado del registro ubicado en la calle para ser  conectado a la línea neutra pasando dentro la villa. 
+6.5 Colocar, al lado del contador de la villa, un poster con una caja electrica. Esta caja deberá tener un breaker y  de la misma deberá salir todo el cableado eléctrico que iría hacia la Villa. Todos los cables salientes de la caja  deben ser concedidos (cubiertos) y con tierra. No cables flojos y no cables pelados para conectar. Usar  propios enchufes.
+
+### 7. Normas para la instalación de interruptores, enchufes y fotocélulas. 
+7.1 Los enchufes eléctricos en las paredes exteriores deben ser resistentes al al agua y diseñado específicamente para su uso en exteriores. 
+7.2 Los interruptores de luz deben instalarse horizontalmente. El interruptor estará en la posición "arriba" para  encendido y en la posición "abajo" para apagado. 
+7.3 Las tomas eléctricas de la pared deben instalarse verticalmente con el orificio de tierra en el fondo. 
+7.4 Todas las casas tendrán un sistema de fotocélulas conectado a las luces exteriores en la parte delantera de la casa. Vea el plan de iluminación para la ubicación del ojo de la foto en la pared exterior y el interruptor  interior cerca de la puerta frontal. 
+7.5 Fotocélulas instaladas en la pared exterior del edificio deben tener este aspecto. En el documento Características estándar para todas las villas en Casa Linda, puede permitir fotografías - Fotocélulas.
+
+### 8. Instalación de aires acondicionados MIDEA y sistema de tuberías asociado
+8.1 Aires acondicionados (MIDEA) 9,000 o 12,000 BTU en todas las habitaciones. Todos los aires acondicionados se instalarán y se conectan con 3 tubos. Un tubo de 3"será para el gas freón, dos tubos de 3/4", una para los  cables electicos y otro para el drenaje del agua.
+
+### 9. Especificaciones de bombas para tanques de agua y requisitos eléctricos para lavaderos.
+9.1 Bombas para el tanque de agua *fibra de vidrio, deben operar con 110v (1 caballos de fuerza, 70psi máx.) Encender a 40 psi y apagar a 60 psi. La bomba debe conectar sea un relé de protección del motor de 50 cm por encima del suelo. 
+9.2 El lavadero debe tener tanto dos tomas de corriente 110v y uno tomas de corriente 220v. Uno 110v detrás  de la máquina lavadora. Una 110v y uno 220v detrás de la secadora. Para la secadora y una línea para gas  propano. El constructor creará un agujero 4” en diámetro de ventilación con puerta con rejillas en la pared antes de la entrega del proyecto. 
+
+
+### 10. Requerimientos para la instalación de electricidad 
+10.1 Tuberíasiniciales: 
+El tamaño de los tubos desde la calle hasta las cajas de registro y entre las cajas de registro de la casa son: Cable y teléfono: 1” 
+Energía eléctrica: 1.5” 
+Profundidad de los tubos: 50cm 
+Tamaño de los tubos en la construcción: 
+Tomacorriente, Cable y Teléfono, Bocina: ¾” 
+Luz: ½” 
+Todos los tubos son de PVC SDR26 
+Calidad o marca de alambres - Norteamericana 
+10.2 Colores del alambre:
+Rojo: línea 
+Negro: línea 
+Blanco: Neutro 
+Verde: Tierra 
+Azul: Retornos, control 
+Amarillo: Fotoselda 
+10.3 Tamaño de alambre Equivalente:  
+№14: Luz, ventiladores e interruptores (120v/220v) 1.5mm 
+№12: Toma corriente 2.5mm 
+№12: Luz Piscina (12v) individual 2.5mm 
+№12: Aire Acondicionado 2.5mm 
+№12:Línea al Casa de Bomba 2.5mm 
+№6: Línea al Casa de servicio combinado con lavandería 6mm 
+№4: Línea Principal hasta Contador y caja de breaker 10.0mm
+
+### 11. Normativas de conexiones eléctricas y configuración de circuitos.
+11.1 Todas las conexiones en las cajas de registro, cajas de breaker, cajas de distribución, etc… se realizan con conectores y terminales. cinta (tape negro) adhesiva. 
+11.2 Las cajas rectangulares de 2” por 4” no se usan como caja de distribución. 
+11.3 Los alambres de una línea se realizan en alambre sin interrupción o extensión en el tubo. 
+11.4 Cada circuito está protegido por su propio breaker. 
+11.5 Si no es especificado un ventilador del techo, todos los puntos de luz serán terminado con un sócalo con  bombillo.
+ 
+### 12. Conexión a Tierra 
+12.1 Cada casa tiene su sistema de tierra principal que se realizan con 4 barras de tierra (16 mm en cobre) posicionado  en cuadrado, separó 1 metro de distancia y conectado con alambre del mismo tamaño de los alambres de la línea  principal. Este alambre se dirige a panel principal disyuntor. Electricidad entrante debe ir directamente al panel principal de interruptores sin interrupción. El sistema de bomba de la piscina debe estar conectado a tierra. Todos los puntos de conexión de luces, bombas, calentadores, y otros aparatos eléctricos serán realizados con  alambre de tierra del mismo tamaño que los otros alambres. 
+12.2 Altura salida de luz en las paredes interior y exterior hasta 200 cm. 
+12.3 Desde cada esquina de cada habitación, habrá una toma de corriente eléctrica dentro de los primero 1.50 m posicionado 40 cm por encima del suelo. 
+12.4 Habrá por lo menos 4 tomas de corriente de 20 cm por encima de la tope de la cocina.  
+12.5 Habrá una toma de corriente eléctrica en el baño 20 cm por encima del tope que tiene un interruptor de fallo de tierra. 
+12.6 Los efectos de las conexiones a los sistemas de inversor utilizan los sistemas europeos de panel de interruptores, el distribuidor de220v(aires acondicionados, bombas de piscina, secadoras y microondas) debe ser colocado en la  parte superior del panel de interruptores, usar este tipo de conector →  . Los interruptores de 110v estarán por debajo de este y usar este tipo de conector→  . 
+Interruptores de 220v deben colocar se juntos para que se encienden y apagan al mismo tiempo. Debe haber un interruptor principal, instalado por separado con el fin de controlar todo el sistema de encendido o apagado.
+
+## II Plomería y Gas 
+1. Un tanque de agua caliente alimentado por gas propano será instalado en una pared exterior. El tanque se  encuentra entre 2 paredes de cemento y un techo. La base de la zona de almacenamiento debe ser de 18 "de  alto. Casas de 2 dormitorios tendrán un tanque de 20 galones. Casas con 3 habitaciones tendrán un tanque  de 30 galones. Casas con 4 o 5 habitaciones tendrán un tanque de 40 galones. Casa de 6 o más dormitorios  tendrá un tanque de 60 galones. 
+1ª . El calentador de agua debe tener una tubería de CPVC de ¾ ”que se extienda desde la válvula de alivio de  presión hasta el piso. 
+2. Una línea de gas y un orificio de ventilación de 3 "de diámetro debe estar provista en el área de lavado (para una secadora a gas) La línea de gas supuso en un tubo flexible de protección, las conexiones T para gas colocado  en un lugar de fácil acceso en la pared. 
+3. La bomba de la piscina debe ser conectada a un relé de protección del motor de 50 cm por encima del suelo, y  será operado por un temporizador digital de 24 horas, no con un interruptor (breaker). 
+4. El enjuague (retro lavado) tubo del filtro de la piscina tiene que acabar en la calle. 
+5. La capacidad de la bomba de la piscina debe poder cambiar el agua en la piscina en el plazo de 6 horas al  menos una vez al día teniendo en cuenta la distancia desde la bomba a la piscina. 
+La capacidad del filtro debe ser 15% más alta 'galones por minuto' que la bomba. 
+6. No se debe utilizar el nombre de marca de los filtros de piscina, 'Astral'. 
+7.E l suplidor principal de agua tendrá un filtro. La fuente principal de agua tendrá un filtro, # 21875"filtro delínea 4-1/2" x 10 " housing. Otras partes, filtro de cartucho22249, adaptador de PVC 20008, accesorios para instalación 22474 y 21982 están disponibles en JDL Electro Plomer piscina SRL en Puerto Plata. 
+ 8. Según Bomba de agua para planificar con una protección de nivel de agua en la cisterna contra marcha en  seco. El tubo de entrada de la cisterna menos 1¼''.  
+9. La bomba de agua (tanque con fibra de vidrio) debe estar protegido con un relé de protección del motor de 50  cm por encima del suelo. (crédito por el tanque metal pagado con la fase 5) 
+
+11. Grifos comprados para cocinas o los fregaderos del bar, lavabos, bidés, bañeras o duchas deben tener una garantía de 5 años. Por favor, proporcione un recibo del fabricante que demuestre la garantia.
+12. Diámetro de las tuberías de agua para calentadores de agua deben tener un mínimo de 1” "de diámetro para  ambas agua entrando y saliendo. 
+13. Tuberías de agua fría y caliente que funcionan bajo el piso debe ser de ¾ " de diámetro interior. 14. El desagüe en el suelo en el baño (cerca del inodoro) debe instalarse de manera que conduce a el exterior de la casa, sin un sifón. El estilo de la tapa de drenaje debe ser el tipo que tiene una tapa pivotante. El tubo en el  exterior de la casa debe tener una pantalla en el extremo para evitar que los insectos entren dentro. 15. Todas las tuberías de alcantarillado serán "presión semi" o mejor. 
+16. El desagüe en el suelo de los inodoros debe ser de 4 "de diámetro. También debe haber un 4 "sea una brida  entre el inodoro y el desagüe. El inodoro debe tener un sello de cera en la parte superior de la brida y el inodoro  debe estar atornillado a la brida. 
+17. Los tanques sépticos deben tener 3 cámaras con un "hoyo filtrante”. 
+18. Habrá una ducha de la piscina por cada casa con un suministro de agua fría. (una columna rectangular,40 x 20  cm con tejas Coralina en el lado con la llave y cabeza en piedra) 
+19. El drenaje para todas las duchas de interior tendrá una rejilla rectangular acero inoxidable en el suelo debajo  del grifo de la ducha. (30 cm de ancho disponible en Zen) 
+20. Las entradas de las zonas de duchas deberán tener una pared pequeña (min. 5 cm) para retener el agua  dentro de la zona de ducha. 
+21. El mezclador de la ducha se debe instalar a 1.10 metro sobre el piso y el soporte ajustable para la ducha de  mano se debe instalar en 195cm sobre el piso. 
+22. Si se muestra un lavavajillas en el plan de la cocina, el plomero debe instalar la pieza de drenaje correcta en el  desagüe debajo del fregadero de la cocina. 
+23. Accesorios para los baño, juego de 5 piezas de cromo instalado después de todos los demás trabajos se hace  (soporte del papel, barra de toallero) 
+24. Para el lavabo en el baño de dos piezas instalar un pedestal. (a menos que se especifique en el plan.) 
+25. Todos los inodoros, lavabos (y las bañeras si en el plan) deben ser de color blanco. (Menos que se  especifique) 
+26. Fregadero dedos hoyos de acero inoxidable en la cocina (fregadero de un hoyo acero inoxidable para la palapa si esta en el plano) 
+27. Lavabos de baño será montado bajo el mármol están estándar. 
+28. Los tubos de 4” para desagües de techos deben estar ubicados fuera de las paredes de la casa y ocultos con  cemento o Densglass. 
+29. Los drenajes en la superficie de la terraza de la piscina deben tener un diámetro de 3 ". Si dos o más drenajes  se conectan a un tubo de drenaje principal, este tubo principal debe tener un diámetro de 4 ”. 
+30. El suministro de agua de la calle tendrá un contador de agua. Este medidor debe estar ubicado cerca del registro eléctrico. Habrá una conexión para la piscina y el jardín antes de que el suministro de agua vaya a la  cisterna. 
+31. La línea de agua para los grifos del jardín debe salir del tanque de presión de la villa justo antes del filtro de  cartucho. 
+32. Debe haber una línea de suministro de agua para la piscina dentro de la sala técnica, para evitar llenar la  piscina con mangueras de jardín. 
+Nota de instalación: Todos los tubos (electricidad, agua, séptico, cable para la televisión, Internet, etc) se deben  instalar al menos 50 cm debajo de la tierra. 
+24. Construcción de cisternas Es obligatorio que se construye la cisterna de cada casa primero y lo utilicen para  abastecer a la construcción de su proyecto. La Administración de Casa Linda no permite el uso del agua de las  casas que ya están terminadas. 
+La cisterna debe ser limpiado antes de que se llena de agua. Después de la inspección y la entrega de las llaves de  la villa, la cisterna debe ser asegurada con ‘tie-wrap’ para evitar el acceso no autorizado a la cisterna. 24ª. El cuarto de la bomba debe tener un drenaje en el piso sin una sifon y debe drenar directamente fuera, no dentro de la tubería de septico. 
+24b. Bombas de agua para cisternas serán una bomba sumergible de 1 HP instalado en el suelo en la parte menos  profunda de la cisterna. La bomba sumergible será instalado en una posición vertical y tener un interruptor para  evitar que se dispare cuando el nivel del agua está por debajo de la válvula de entrada. La única marca comercial  de bombas sumergibles para cisternas que será aceptado en Casa Linda, será "Pedrollo", “Meyers” o Franklin ' en  acero inoxidable. 
+24c. La tapa pivotante de la cisterna no debe estar hecho de metal blanco que se rompa fácilmente. Debe  asegurarse con ‘tie wrap’ cuando se complete la construcción.
+
+Construcción de Fundaciones 
+1. Las paredes exteriores de cualquier área de estar que esté debajo del nivel del suelo deben ser  impermeabilizadas. Debe haber un lecho de grava, con el azulejo que llora para drenar el agua lejos de los  fundamentos. 
+2. Una hoja de plástico grueso debe ser colocado en la parte superior de la tierra compactada antes de las barras  de hierro, tubos de agua y electricidad, y el piso de concreto se construye. 
+ 3. Antes de que las zapatas se llenan con hormigón, se debe realizar la fumigación de la tierra. Después de la  fundación está lleno, pero antes de colocar la lámina de plástico, el suelo de la fundación debe ser fumigado.  Llame a Joselito, que vendrá a realizar la fumigación. Firme el recibo para mostrar la fumigación se ha hecho y presentar la factura a Casa Linda (Paul Mancini). Número de Joselito es 809-855-7472. 
+4. Los bloques utilizados para la fundación de un edificio o de las paredes de una piscina (especialmente) deberán  ajustarse de forma que los agujeros de los bloques se alineen de manera que se pueden llenar con cemento. De modo que el cemento pase por todos los bloques puesto desde el comienzo (abajo) hasta arriba (final).
+
+## III Materiales de construcción. MADERA. 
+1. Gabinetes en cocina y baño, armarios, puertas interiores de MDF o madera de Ejecquitiva ¾” grueso. Paneles  laterales visibles deben estar hechos de madera sólida o MDF. (no plywood) Puerta principal (entrada) y puertas  exteriores madera de Caoba o Ejecutiva. (incluyendo marcos y paneles laterales) La puerta de entrada será  tratada con un pigmento resistente a la intemperie y un barniz de grado marino. 
+2. Bordes visibles de los paneles madera o MDF o estantes (en cocinas, baños o dormitorios armarios o closets)  deben estar cubiertos con una moldura (recorte) para cubrir el borde del corte. 
+3. Cualquier cocina planeada con una isla o península en granito tendrá un mostrador con 6”desalida. 4.Todos los gabinetes bajos en la cocina tendrán un estante 30cm de profundidad.(Excepto debajo el fregadero) El gabinete bajo el fregadero debe tener un panel en cada lado para dividir el espacio de los otros gabinetes. 5. Todos los gabinetes arriba en la cocina tendrá un panel trasero para cubrirla pared. (pared cubrir para  dispensas también) Instale las gabinetes (arriba) 58cm encima el granito. 
+6. Gabinetes inferiores que están indicadas para tener una 'bisagra piano' deben tener la capacidad para abrir 180 grados. 
+7. Los marcos de madera alrededor de las puertas interiores se extenderán hasta el piso. (sin zócalo entre la  madera y el piso) 
+8. Gavetas serán construidas con 5/8 "de MDF y abierto (extender)18"o 45cm. 
+9. Armarios tendrán cajones con 5/8 "de MDF La parte inferior de las puertas de los armarios tendrá ventilación /  persianas. 
+10. Walk-in closets (armarios con puertas) tendrá mínimo 3 cajones  
+11. Las bisagras y los toboganes de los cajones serán de materiales resistentes al óxido y tendrán una función de  "cierre lento".12. Agujeros de los tornillos visibles serán cubiertos con tapones. 
+13. Armarios, marcos de puertas o despensas instalados junto a una pared se deben acabar con una moldura de  madera pequeña. Masilla ya no es aceptable como carga para madera. 
+14. Todas las puertas y jambas, muebles de las cocinas y los baños y closets (interior y exterior) se deben acabar  con la "calidad de muebles '. Todos los estantes y el interior de los cajones deben ser lijadas y suave y pintados  del mismo color que el especificado en los "detalles de terminación" para cada casa. 
+15. El zócalo debajo de muebles de cocina y armarios dormitorios debe estar empotrada por 5 cm. Por ejemplo,  si los gabinetes de la cocina son de 60 cm de profundidad, el zócalo debe ser 55 cm de profundidad. 16. Los gabinetes que son 72cm alto tendrán 1 estante. Los gabinetes que son 72cm or mas tendrán 2 estantes. 17. La profundidad de los gavetas para muebles de cocina y cuarto de baño debe ser de 18 "(de adelante hacia  atrás) 
+18. Espejos con marcos arriba de lavabos tienen que tener dos luces y tres para el baño principal.(3 o mas para  baño principal y 1 para baño pequeño) 
+19. Los gabinetes de los lavamanos de los baños tendrán una altura de 25-1/2’’o 65 cm y deberán ir levantados 10’’o 25cm del piso. 
+20. Vestidores ‘Walk-in’ que se muestran en el plan sin una puerta debe tener un marco de madera en la  entrada. 
+21. Los vestidores que muestran una puerta deben tener la parte inferior con persianas para ventilación 22. Las puertas para ‘walk-in closets’, almacenamiento, armarios de ropa, ropa blanca, debe tener persianas (rejillas) en la parte superior o inferior para la ventilación.
+23. Tocadores de baño construido en una esquina tendrán una pierna de apoyo (hasta el piso) en la esquina  abierta. Tocadores de baño no construido en una esquina tendrán dos piernas de apoyo en cada esquina abierta  (hasta el piso). La pierna o piernas de apoyo estarán hechos de la misma madera y ser del mismo color que la  vanidad. 
+24. El área debajo del fregadero en el bar al aire libre tendrán gabinetes con puertas de caoba. 25. Todos los closets de los dormitorios deben tener puertas corredizas o pivotantes y deben tener al menos una sección con estanterías. (por favor refiérase a los planes) 
+26. Todas las puertas de los dormitorios tendrán cerradura con llave. Todas las puertas del baño (excepto los  baños al aire libre) tendrán una cerradura de privacidad (sin llave). 
+27. La puerta de entrada tendrá una placa de umbral de aluminio instalado directamente por debajo de la puerta. 28. La puerta del lavadero interior o exterior debe instalarse con una manija de bloqueo con llave. 
+
+## Materiales de construcción. Mesetas. 
+1.Para áreas abiertas debajo de encimeras de granito que son más anchos que los 85cm, el granito debe ser  apoyado por un soporte de metal o barra de reforzamiento. 
+2. El borde de la encimera de granito o mármol sólo puede ser de 3 cm más grande que el gabinete (salvo que se  especifique en los planes) 
+3. El voladizo de granito en la isla de cocina o el bar que es más de 6” debe tener la madera contrachapada  debajo de apoyo. 
+4. Las encimeras de granito son estándar para cocinas interiores y bares al aire libre. 
+5. Encimeras de mármol ‘Crema Marfil’ en los baños están estandar. 
+6. Se debe usar silicona transparente para sellar el mármol o el granito donde se encuentran las superficies de  baldosas de cerámica o madera.
+
+## Materiales de construcción. Puertas y ventanas 
+1.Puertas de la terraza, con 6 puertas deben tener un sistema de 4 pistas, el cuarto es para la pantalla deslizante. 2. Todas las puertas de madera o polymetal de afuera deben tener un cubre falta de goma debajo de la puerta. 3. Las puertas de poli-metal que se abren hacia el exterior del edificio deben tener un resorte (cierrapuertas  automático) en la parte superior de la puerta. 
+4. El lado del bar exterior circa el terraza o jardín tendrá una base elevada (reposapiés). 5. Todas las puertas interiores deben tener paradores de puertas de piso. 
+6. P-92UV ventanas y puertas corredizas de 3 carriles (cerrajerías de calidad) 
+7. Puerta deslizante que son más anchos de 4 metros tendrá un sistema de 4 pistas. 
+8. Grado del aluminio será P65 o P92 con un grosor de 1.50mm para todos las puertas y ventanas correderas. 
+9. Las pantallas corredizas para puertas de terraza deben tener un panel de vidrio 45cm alto en la parte inferior y  una barra de soporte horizontal en el centro. 
+10. Pantallas para puertas correderas de las terrazas debe tener una manija empotrada en el exterior. 
+11. Todas las ventanas tendrán pantallas desmontable y las puertas correderas se habrá pantallas corredizas. 
+12. A menos que se especifique lo contrario, las ventanas con vidrio martillado deben ser del mismo color que las  otras ventanas y puertas corredizas. 
+
+## Materiales de construcción pisos y terrazas 
+1. Todas las puertas interiores para tener un patrón en los azulejos de dividiendo que muestra el umbral. (a  menos que se especifique en la 'lista de acabado') 
+2. Los azulejos que deban cortarse para utilizarlos en los suelos y pared es debe ser de mayor tamaño que la  mitad de un azulejo completo. El tamaño de estos azulejos debe ser del mismo tamaño en ambos lados del piso  al borde de las paredes. 
+3. Lechada para pavimentos y revestimientos debe mezclarse según las instrucciones del fabricante. Lechada se  debe aplicar con una llana de goma, no una escobilla de goma. Si no se siguen estas instrucciones, la lechada  debe ser removido y rehacer. 
+4. Los espaciadores utilizados para instalar azulejos de cerámica o porcelana deben tener el tamaño de 2 mm. 
+5. Dos metros cuadrados de cada azulejo cerámica (suelo y paredes) se dejarán en el proyecto para su uso en el  futuro.
+6. El borde de la ventana y 1/3 de las repisas laterales de la ventana de la cocina (por encima del fregadero) se  terminará con azulejos. 
+7. Todos los 4 lados de las ventanas en el baño se terminará con baldosas de cerámica. 
+8. Las baldosas cerámicas que se encuentran en una esquina exterior deben estar acabadas con un reborde de  esquina de plástico. 
+9. Todas las terrazas cubiertas deben tener zócalo de 4”. 
+10. Piso de cerámica en cuarto de technico, lavenderia y almacen del mismo color de la villa principal. 
+11. La cabina de la ducha es de cerámica con la pared inferior y un panel de vidrio templado arriba. La pared de  bloques de abajo es de 1 metro de alto, el panel de vidrio templado de encima será de 110 cm. 
+12. A menos que se especifique, la entrada a todas las duchas tendrá un murito de 8 cm de altura. 13. Todos los bar exteriores deben tener reposapiés 15cm encima la terraza, y piedras natural o artificial en el  frente y los lados. 
+14. Todas las piscinas están recubierta de Marmolina blanca. Cualquiera sea el la marca se utiliza, debe ser una  garantía de 10 años. 
+15. Todas las piscinas tendrán baldosas de mosaico inserta en el borde de la escalera, y si en el plan, a lo largo del  borde de la zona de poca profundidad, alrededor de la parte superior de los asientos, o en el borde del banquillo. 
+16. Mosaic instalado en la parte superior de la pared de la piscina será mínimo 18 cm de ancho (de arriba abajo). 
+17. Terraza de la piscina en coralina con bordes redondeados (bullnose) borde alrededor de la piscina. 
+18. Todos los pisos o terrazas de coralina deben estar llenos de lechada y pulido con una gran rectificadora y  luego se selló con 2 capas de sellador F-10 transparente (sin color, acabado matte). 
+19.Todas las terrazas cubiertas (cerca la piscina) tendrán pisos de coralina cuadrados, 30cm x 30cm.  Esto incluye el piso de la palapa si un palapa está en el plan. 
+20. Terracota para el parqueo y vía de entrada a menos que se especifique lo contrario. 21. La parte superior del zócalo donde el piso se encuentra con la pared se terminará con derretido (el mismo  color que el piso) 
+22. Las terrazas (cubiertas o descubiertas) en el segundo piso deben tener una membrana impermeable debajo  del piso de baldosas o coralina. 
+23. Las escaleras exteriores se terminarán con baldosas de coralina. 
+
+## OTRAS 
+1. Todos los techos se construirán con 'losa' paneles. 
+2. Limpiar toda la propiedad de los residuos de construcción y preparar para la jardinería. 3. Toda la pintura interior es solamente Tropical Plus semi gloss. 
+3ª. A partir del 1 de abril de 2014, solo ciertos colores de pintura tendrán una garantía de 4 años. Se enviará una  lista de estos colores a cada constructor. Todos los demás colores tendrán una garantía de 1 año. 
+4. Si la balaustres en cemento está en el plano tendrá una base elevada de hormigón/ zócalo. 
+5. Si hay barandillas mostrados en el plan, tendrán un pasamanó arriba con 2 tubos horizontales debajo.   La altura total debe ser de 1 metro. Todas las barandillas serán de aluminio sin mantenimiento. 
+
+## Estructura del techo - La instalación de tela asfáltica para la impermeabilización  de techos de teja. 
+∙ La estructura del techo será un panel de techo“ losa ligera” de PanelDom, espesor15 cmy60 cm de ancho y de longitud tan largo como sea posible. 
+∙ Habrá 2 varillas de 3/8" de espesor en cada unión, y luego séllenla con hormigón, cuando el hormigón es vertido en la parte superior del techo, se creará una viga de soporte 
+∙ En la parte superior de los paneles habrá varillas colocadas con una separación de 35 cm x 35 cm. un patrón de rejilla y a todos juntos. 
+∙ Se debe verter 5 cms de hormigón en la parte superior del techo luego de armado, frotar lentamente a mano, durante el proceso del secado, manteniéndolo húmedo, rociándolo constantemente con agua. 
+∙ Los planos estructurales y las especificaciones para cada villa tienen que ser solicitados en la oficina de arquitectura de Casa Linda. 
+1- Para techo plano, debe seguirse el siguiente proceso: 
+a. Terminado con cemento fino 
+b. Instale tela de asfalto gris de 4 mm con una superficie texturada granular. Debe haber un 'antipecho' en el  borde de todos los techos planos. 
+  
+2- Para techo inclinado tipo ‘Bermuda’, debe seguirse el siguiente proceso: 
+a. Terminado con cemento fino, estilo Bermuda 
+b. Tela asfáltica 4mm pintado con una pintura de aluminio .
+3- Para techo inclinado con teja, debe seguirse el siguiente proceso: 
+     
+Foto #1 Foto #2 Foto #3 
+A) Teja Después de 'fino', coloque la primera fila de tejas (A)en todo el perímetro del techo. B) Cemento Aplique el cemento(B) como se muestra en la foto #1. 
+C) Tela asfáltica Coloque tela asfáltica(C) y corte como se muestra en la foto #2. 
+ D) Funda con calor la 'Tela asfáltica, como se muestra en la foto #3. 
+4. En todos los vuelos de techo plano y con bermuda de las villas en construcción debe colocar se un listón de  madera de 1x1 pulg. A una distancia de 2 pulg. de arriba hacia abajo de la cara del vuelo, para evitar el goteo  en tiempo de lluvia. 
+5. Todos los tubos que se extienden por encima del techo (plano o inclinada) se cortarán al mínimo o 50cm.  Estos tubos serán pintados para que coincida con el color del techo y tienen un 'codo' instalado en la parte  superior para evitar que la lluvia penetre. 
+6. Todos los tubos que salen de las paredes exteriores de la casa o edificio servicio (ejemplo: de drenaje en el piso  del baño, o de drenaje del techo) debe tener un codo instalado en el extremo. El tubo con el codo debe  extenderse fuera y hacia abajo para 10cm -15cm por encima del suelo. El tubo con el codo debe extenderse hacia  afuera y hacia abajo a 10 cm -15 cm por encima del suelo, y debe ocultarse con cemento o Denglass.
+
+## ESPECIFICACIONESPARA PISCINA DE BORDE INFINITO 
+1) La parte superior de la pared donde el agua fluye sobre el borde 'infinito' debe tener una inclinación de 5 cm que lleva lejos de la piscina. 
+2) La superficie de la parte superior dela pared 'infinito', y la superficie de la pared donde el agua se desplaza hacia abajo hasta la cuenca será tratado con un revestimiento impermeable (Lanco Dry Coat).Si hay un  material particular, tal como la piedra especificado para esta pared, la parte superior donde los desbordamientos de agua todavía serán tratados con un recubrimiento resistente al agua. 3) El interior de la lavabo del retén será terminado con marmolina. 
+4) El lavabo del retén debe funcionar con un mínimo de 30 cm de agua en todo momento. 5) Habrá una bomba separada con una velocidad de flujo de 5 galones por minuto (mínimo) para cada pie de  borde infinito. 
+6) Habrá un filtro de agua 10 micrones instalado antes de la bomba. 
+7) La capacidad de la bomba debe ser capaz de bombear 5 galones por minuto veces la longitud del borde  infinito.  
+(Ejemplo: si el ancho del borde infinito es de 12 pies de largo x 5 galones por minuto por pie = 60 galones  por minuto. Por lo tanto, la bomba debe ser capaz de bombear 60 galones por minuto. 
+8) En el reservorio del sistema de la piscina de borde infinito, habrá un flotador para mantener el nivel  mínimo de agua. El suministro de aguapara mantener este nivel vendrá de la cisterna principal de la casa. 
+9) La dimensión del interior del embalse será de 90 cm de alto por 60 cm de ancho. La parte inferior del  embalse será construida en un nivel por debajo del fondo de la piscina. (donde sea posible)
+ 
+
+Este es un ejemplo de lo que puede parecer. La abertura donde sale el agua debe tener al menos 8 cm de ancho. 
+ 
+Los tubos que van hacia y desde el filtro de la piscina, los inyectores o la caja del skimmer deben ocultarse  con cemento o Denglass. 15/04/19 
+Las esquinas de las paredes, o esquinas donde las paredes se juntan con el piso de la piscina tendrán una forma curva para permitir un mejor flujo de agua y un proceso de limpieza más fácil. 
+
+## REQUISITOSPARA LA INSTALACIÓN DE ELECTRODOMÉSTICOS 
+Secadoras eléctricas 
+3Lines -2 positivos y 1 neutro 
+220v enchufe eléctrico para la resistencia 
+Y110v enchufe eléctrico para el tambor 
+Ventilación de aire caliente, tubo de 4” diámetro a una pared exterior 
+Las secadoras de gas propano  
+110v enchufe eléctrico  
+Lavadora  
+110v enchufe eléctrico  
+Suministro de agua caliente y fría con válvulas encendido / apagado  
+Descarga agua 
+Estufas de gas propano 
+Línea de gas propano(#12) 
+110v enchufe eléctrico 
+Lavaplatos 
+110v enchufe eléctrico (ubicado bajo el fregadero de la cocina) 
+De suministro de agua-las líneas de suministro de agua caliente y fría 
+Drenaje del agua -18"de visible 1-1/2"tubo para el drenaje, con una inclinación de 60 grados Adaptador 3/8 "x 3/8" niple de bronce 
+Adaptador ½ pezón" x 1" 
+¾” x 3" de madera instalado bajo el granito en la parte delantera de la abertura para la máquina.  
+Debe haber 2 agujeros perforados en el panel de madera que divide el espacio de que la máquina y  el espacio debajo del fregadero. Ambos deben ser de 4 cm de diámetro. Uno debe estarsituado20  cm por encima del suelo y el segundo 40 cm por encima del suelo. Ambos deben ser de  aproximadamente 10 cm de distancia de la pared de atrás. 
+Nevera 
+110v enchufe eléctrico 
+(conexión de agua es opcional) 
+Micro-extractor 
+4 "agujero de ventilación centrada en un orificio rectangular 4” x10” ubicado a 1" debajo del  armario por encima de la estufa.  
+La profundidad del orificio rectangular debe ser 1-1/2 "de profundidad (antes de la 4" tubo en la  pared) Este 4 "tubería puede reducirse a 3”. Debe extenderse hacia el exterior. Una puerta tipo  persiana debe cubrir la abertura en la pared exterior.
